@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YamiFoodResturant/static/css/main.5d37e134.css",
+    "main.js": "/YamiFoodResturant/static/js/main.de19bc6c.js",
+    "static/media/footer-bg.jpg": "/YamiFoodResturant/static/media/footer-bg.270f755c420402e8f675.jpg",
+    "static/media/qt-bg.jpg": "/YamiFoodResturant/static/media/qt-bg.5db830b3e1abba65c875.jpg",
+    "static/media/all-bg.jpg": "/YamiFoodResturant/static/media/all-bg.de8f9a78ac55100e24e7.jpg",
+    "static/media/OIP.jpeg": "/YamiFoodResturant/static/media/OIP.383609f5551323a0d3cd.jpeg",
+    "index.html": "/YamiFoodResturant/index.html",
+    "main.5d37e134.css.map": "/YamiFoodResturant/static/css/main.5d37e134.css.map",
+    "main.de19bc6c.js.map": "/YamiFoodResturant/static/js/main.de19bc6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d37e134.css",
+    "static/js/main.de19bc6c.js"
+  ]
+}
